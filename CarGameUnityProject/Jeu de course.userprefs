@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Framework\Scripts\StartScreenManager.cs">
+    <Files>
+      <File FileName="Assets\Framework\Scripts\greenShellScript.cs" Line="16" Column="36" />
+      <File FileName="Assets\Framework\Scripts\blueShellHandlerScript.cs" Line="174" Column="91" />
+      <File FileName="Assets\Framework\Scripts\CarDamagedControllerScript.cs" Line="11" Column="28" />
+      <File FileName="Assets\Framework\Scripts\blueShellScript.cs" Line="25" Column="94" />
+      <File FileName="Assets\Framework\Scripts\BoostSlider.cs" Line="38" Column="1" />
+      <File FileName="Assets\Framework\Scripts\CarUserControlMP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\CheckpointManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\CountAmunition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\deahtZoneScript.cs" Line="6" Column="2" />
+      <File FileName="Assets\Framework\Scripts\demonHeadScript.cs" Line="23" Column="23" />
+      <File FileName="Assets\Framework\Scripts\demonScript.cs" Line="22" Column="35" />
+      <File FileName="Assets\Framework\Scripts\golemScript.cs" Line="24" Column="35" />
+      <File FileName="Assets\Framework\Scripts\greenShellHandlerScript.cs" Line="33" Column="57" />
+      <File FileName="Assets\Framework\Scripts\MultiplayerMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\portalFireScript.cs" Line="8" Column="2" />
+      <File FileName="Assets\Framework\Scripts\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\portalIceScript.cs" Line="7" Column="48" />
+      <File FileName="Assets\Framework\Scripts\RaceManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\redShellHandlerScript.cs" Line="194" Column="52" />
+      <File FileName="Assets\Framework\Scripts\redShellScript.cs" Line="20" Column="4" />
+      <File FileName="Assets\Framework\Scripts\Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Framework\Scripts\StartScreenManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
