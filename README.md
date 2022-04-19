@@ -1,4 +1,3 @@
-# Styx971.github.io
 1. CarGameFixed contains the executable for windows.
 
 -> Go to CarGameFixed directory
